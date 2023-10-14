@@ -1,0 +1,11 @@
+name: /home/ami/projects/ml/philly-real-estate-estimator/env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - jupyter
+  - matplotlib
+  - scikit-learn
+prefix: /home/ami/projects/ml/philly-real-estate-estimator/env
